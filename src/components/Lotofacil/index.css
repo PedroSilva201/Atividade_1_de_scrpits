@@ -1,0 +1,52 @@
+.bloco1{
+    width: 80vh;
+}
+.jogo{
+    color:#930089;
+    font-size: 40px;
+    font-family: roboto;
+}
+.premio{
+    color:#930089;
+    font-family: roboto;
+    padding-top: 15px;
+    font-weight: bolder;
+    font-size: large;
+}
+.palavra{
+    color:#4c556c;
+    font-family: roboto;
+    padding-top: 15px;
+}
+.container-flex{
+    display:flex;
+    display: inline-block;
+    /* max-width: 200px ;
+    color: red; */
+}
+.teste{
+    /*
+    border-radius: 100%;
+    background-color: purple;
+    display:inline-block;
+    color: white;*/
+    padding: 25px;
+    color:#930089;
+    font-family: roboto;
+    margin:1px;
+    display:inline-block;
+    max-width: 350px;/*350*/
+    border-bottom: solid #ddd 2px;
+}
+.ganhou{
+    color:#0066b3;
+    font-family: roboto;
+    padding-top: 15px;
+    font-weight: bolder;
+    font-size: large;
+}
+.concurso{
+    color:#4c556c;
+    font-family: roboto;
+    padding-top: 15px;
+}
