@@ -4,7 +4,7 @@ Nesta atividade foi realizado a criação de uma pagina html exibindo os resulta
 
 ### Instruções de uso
 
-Baixar o projeto na pasta `front` do seu computador:
+Baixar o projeto na pasta `front` do seu computador: https://github.com/PedroSilva201/Atividade_1_de_scrpits
 ```
 git clone 
 ```
